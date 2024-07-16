@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Gregori Paganini
+- 👋 Olá, meu nome é **Gregori Paganini**
 - 👀 Atualmente estou desenvolvendo alguns projetos pessoais em Java
-- 🌱 Atualmente estou aprendendo desenvolvimento Mobile
+- 🌱 E tambem aprendendo desenvolvimento Mobile
 
 <!---
 molobyte/molobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
