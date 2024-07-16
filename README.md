@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Gregori Paganini
-- 👀 Desenvolvendo nesse momento alguns projetos pessoais em Java
+- 👀 Atualmente estou desenvolvendo alguns projetos pessoais em Java
 - 🌱 Atualmente estou aprendendo desenvolvimento Mobile
 
 <!---
